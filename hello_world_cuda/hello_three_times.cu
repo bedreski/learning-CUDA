@@ -14,9 +14,6 @@ int main() {
     cudaDeviceSynchronize();
 
     printf("On CPU.\n");
-    
+
     return 0;
 }
-
-//Compile: nvcc hello.cu
-//Run: ./a.out
