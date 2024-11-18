@@ -1,4 +1,4 @@
-###The header file
+### The header file
 
 '''
 #include<cuda.h>
@@ -7,7 +7,7 @@
 CUDA header file for CUDA functions and directives. 
 
 
-###The "global" directive
+### The "global" directive
 
 '''
 ___global___ void
